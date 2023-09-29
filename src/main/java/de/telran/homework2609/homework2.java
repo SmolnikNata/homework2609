@@ -6,9 +6,12 @@ int number =345;
 int hundreds = (number/100);
         int dozens = (number/10 % 10);
         int units = (number % 10);
+
         System.out.println("hundreds"+ hundreds);
         System.out.println("dozens"+ dozens);
         System.out.println("units"+ units);
+        System.out.println("Число 345 -> " + hundreds +", "+dozens +","+units);
+
     }
 }
 //Дано трехзначное число. Вывести на экран все цифры этого числа
