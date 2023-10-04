@@ -6,21 +6,17 @@ public class Task2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ведите первое число:");
-        int arg1 = scanner.nextInt();
+        int numb1 = scanner.nextInt();
         System.out.print("Ведите второе число:");
-        int arg2 = scanner.nextInt();
-        int sum = arg1 + arg2;
-        int dif = arg1 - arg2;
-        int mult = arg1 * arg2;
-        int div = arg1 / arg2;
+        int numb2 = scanner.nextInt();
+        int sum = numb1 + numb2;
+        int dif = numb1 - numb2;
+        int mult = numb1 * numb2;
+        int div = numb1 / numb2;
         System.out.println("Summer = "+ sum  + ";");
         System.out.println("Different = "+ dif + ";");
         System.out.println("Multiply = "+ mult + ";");
         System.out.println("Divide = "+ div + ";");
-
-
-
-
 
 
 
