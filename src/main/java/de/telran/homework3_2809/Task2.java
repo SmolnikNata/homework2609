@@ -9,6 +9,7 @@ public class Task2 {
         int numb1 = scanner.nextInt();
         System.out.print("Ведите второе число:");
         int numb2 = scanner.nextInt();
+
         int sum = numb1 + numb2;
         int dif = numb1 - numb2;
         int mult = numb1 * numb2;
