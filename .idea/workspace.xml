@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a606dd5c-3d01-4423-9343-5279b13194e2" name="Changes" comment="homework3 scanner, math operation,substring,replace">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/homework5_10/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/homework5_10/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/homework5_10/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/Homework9_10/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/Homework9_10/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/homework11_10/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/homework11_10/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson12/Case.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/homework2_10/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/homework2_10/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/homework3_2809/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/homework3_2809/Task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +51,39 @@
       <recent name="de.telran.homework2609" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task3">
+  <component name="RunManager" selected="Application.Task1">
+    <configuration name="Case" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.lesson12.Case" />
+      <module name="homework2609" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.telran.lesson12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.Homework9_10.Task1" />
+      <module name="homework2609" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.telran.Homework9_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telran.homework3_2809.Task2" />
+      <option name="MAIN_CLASS_NAME" value="de.telran.homework11_10.Task2" />
       <module name="homework2609" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="de.telran.homework3_2809.*" />
+          <option name="PATTERN" value="de.telran.homework11_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telran.homework5_10.Task3" />
+    <configuration name="de.telran.Homework9_10.Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.Homework9_10.Task2" />
       <module name="homework2609" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="de.telran.homework5_10.*" />
+          <option name="PATTERN" value="de.telran.Homework9_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,38 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="de.telran.homework2_10.Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telran.homework2_10.Task2" />
+    <configuration name="de.telran.homework11_10.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.homework11_10.Task1" />
       <module name="homework2609" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="de.telran.homework2_10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="de.telran.homework5_10.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telran.homework5_10.Task1" />
-      <module name="homework2609" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="de.telran.homework5_10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="de.telran.homework5_10.Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telran.homework5_10.Task2" />
-      <module name="homework2609" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="de.telran.homework5_10.*" />
+          <option name="PATTERN" value="de.telran.homework11_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.de.telran.homework5_10.Task2" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.de.telran.homework11_10.Task1" />
         <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.de.telran.homework5_10.Task1" />
-        <item itemvalue="Application.de.telran.homework2_10.Task2" />
+        <item itemvalue="Application.de.telran.Homework9_10.Task2" />
+        <item itemvalue="Application.Case" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696458418248</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="homework3 scanner, math operation,substring,replace">
+      <option name="closed" value="true" />
+      <created>1696967983122</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696967983122</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
