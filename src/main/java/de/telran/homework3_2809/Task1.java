@@ -6,7 +6,7 @@ public class Task1 {
         System.out.println(myStr);
 
         System.out.println("Длина строки: " + myStr.length());
-        System.out.println(" пред-последний символ строки:" + myStr.charAt(17));
+        System.out.println(" пред-последний символ строки:" + myStr.charAt(myStr.length()-2));
         System.out.println("содержит ли ваша строка подстроку “Java”: " + myStr.contains("Java"));
         System.out.println(myStr.substring(14,18));
         System.out.println(myStr.replace('a','o'));

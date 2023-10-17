@@ -17,7 +17,8 @@ public class Task2 {
 
     }
     public static boolean isLeap(int year){
-        return ((year % 4 == 0 && year % 100 != 0) || year % 400 ==0);
+
+        return ((year % 4 == 0 && year % 100 != 0) || year % 400 ==0);//метод подсчета високосного года
     }
 }
     //Реализуйте программу, которая попросит пользователя ввести год и напечатать этот год.
